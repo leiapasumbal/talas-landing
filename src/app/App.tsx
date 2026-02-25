@@ -3,7 +3,7 @@ import { motion } from 'motion/react';
 import { Users, BarChart3, Target, Brain } from 'lucide-react';
 import { Button } from '@/app/components/ui/button';
 import { Input } from '@/app/components/ui/input';
-import boxingRingLogo from '@/assets/dcfca260c552cd915a7690edda0c3ae713badada.png';
+import boxingRingLogo from '@/assets/talas-logo.svg';
 import boxingPhoto from '@/assets/bded7330e4c11f3641b83fb462c7c839224ea0b2.png';
 
 export default function App() {
