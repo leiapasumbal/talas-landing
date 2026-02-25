@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" role="img" width="500" height="500">
+  <title>TALAS Logo</title>
+  <rect width="500" height="500" fill="#000000"/>
+  <g stroke="#FF4040" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none">
+
+    <!-- TOP RIM (open top, 4 edges) -->
+    <line x1="250" y1="228" x2="360" y2="288"/>
+    <line x1="360" y1="288" x2="250" y2="348"/>
+    <line x1="250" y1="348" x2="140" y2="288"/>
+    <line x1="140" y1="288" x2="250" y2="228"/>
+
+    <!-- FOUR VERTICAL CORNER PILLARS -->
+    <line x1="250" y1="228" x2="250" y2="298"/>
+    <line x1="360" y1="288" x2="360" y2="358"/>
+    <line x1="250" y1="348" x2="250" y2="418"/>
+    <line x1="140" y1="288" x2="140" y2="358"/>
+
+    <!-- BOTTOM RIM (floor, 4 edges) -->
+    <line x1="250" y1="298" x2="360" y2="358"/>
+    <line x1="360" y1="358" x2="250" y2="418"/>
+    <line x1="250" y1="418" x2="140" y2="358"/>
+    <line x1="140" y1="358" x2="250" y2="298"/>
+
+    <!-- BOTTOM FLOOR CROSS (center dividers) -->
+    <line x1="195" y1="328" x2="305" y2="388"/>
+    <line x1="195" y1="388" x2="305" y2="328"/>
+
+    <!-- SIDE FACE MID-RAILS -->
+    <line x1="140" y1="323" x2="250" y2="263"/>
+    <line x1="250" y1="263" x2="360" y2="323"/>
+
+  </g>
+</svg>
